@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+  font-family: Rubik Doodle Shadow ;
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+.container{
+  overflow: hidden;
+  background-color: #EAEDF0;
+}
+.page{
+  width: 900px;
+  margin:0 auto;
+}
+.menu {
+  background-color:#444444;
+    height: 100px;   
+  }
+  
+  .sidebar {
+    height: 300px;
+    width: 200px;
+    float: left;
+  }
+  .jersey{
+    height: auto;
+    width: 225px;
+  }
+  
+  .content {
+    height: 590px;
+    width: 650px;
+    float:left;
+    padding: 20px;
+  }
+  
+  .footer {
+     background-color:#444444;  
+    overflow: hidden;
+  }
+  .column{
+    float:left;
+    width: 31%;
+    margin:20px 1.15%;
+    height:195px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.75), 0 0 3px rgba(255, 255, 255, 0.25);
+    
+  }
+  .article-img{
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  .data{
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Arial, sans-serif;
+    
+  }
+  .avatar{
+    float:left;
+    width: 60px;
+    height: 32px;
+    margin: 25px;
+    background-color: #D6E9FE;
+  }
+  .username{
+    margin-top:30px;
+  }
+  .comment{
+    margin: 10px;
+    overflow: hidden;
+  }
+  .logo{
+    height: auto;
+    width:62px;
+
+  }
+ 
